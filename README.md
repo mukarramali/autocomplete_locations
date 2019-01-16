@@ -1,4 +1,4 @@
-# AutocompleteLocations [![Build Status][ci-image]][ci]
+# AutocompleteLocations [![Build Status](https://travis-ci.com/mukarramali/autocomplete_locations.svg?branch=master)](https://travis-ci.com/mukarramali/autocomplete_locations)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/autocomplete_locations`. To experiment with that code, run `bin/console` for an interactive prompt.
 
