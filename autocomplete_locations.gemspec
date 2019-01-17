@@ -17,6 +17,6 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  s.add_development_dependency 'factory_bot'
+  s.add_development_dependency 'factory_bot', 'rake'
 
 end
